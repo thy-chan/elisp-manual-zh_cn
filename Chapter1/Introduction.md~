@@ -1,0 +1,6 @@
+# Introduction
+前言
+
+Most of the GNU Emacs text editor is written in the programming language called Emacs Lisp. You can write new code in Emacs Lisp and install it as an extension to the editor. However, Emacs Lisp is more than a mere “extension language”; it is a full computer programming language in its own right. You can use it as you would any other programming language.
+
+大多数情况下GNU Emacs 文本编辑器是在 Emacs Lisp 编程语言上编写的。 你可以编写和安装新的代码用于扩展Emacs 编辑器。然而， Emacs Lisp 不仅仅是一种扩展语言，它自己本身就具有完整的计算机编程语言能力。你可以使用它就像你使用任何其他编程语言一样。
